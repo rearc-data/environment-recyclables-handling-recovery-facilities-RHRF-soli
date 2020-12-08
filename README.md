@@ -3,7 +3,7 @@
 </a>
 
 
-## Solid Waste Management Facilities | Open Data NY
+## Recyclables Handling & Recovery Facilities (RHRF) | Open Data NY
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-](https://aws.amazon.com/marketplace/pp/prodview-).
 

@@ -1,4 +1,4 @@
-## Solid Waste Management Facilities | Open Data NY
+## Recyclables Handling & Recovery Facilities (RHRF) | Open Data NY
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/environment-recyclables-handling-recovery-facilities-RHRF-soli](https://github.com/rearc-data/environment-recyclables-handling-recovery-facilities-RHRF-soli).
 
